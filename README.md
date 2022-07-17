@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ehstanley
-- 👀 I’m interested in limnology and aquatic biogeochemistry
-- 🌱 I’m currently ignorant about many things
+- Hi, I’m @ehstanley
+- I’m interested in limnology and aquatic biogeochemistry
 - 📫 How to reach me: stanley.limnology.wisc.edu
 
 <!---
